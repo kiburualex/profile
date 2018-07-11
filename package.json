@@ -2,7 +2,7 @@
   "name": "profile",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/kiburualex/profile/",
+  "homepage": "https://kiburualex.github.io/profile/",
   "dependencies": {
     "react": "^16.4.1",
     "react-addons-css-transition-group": "^15.6.2",
